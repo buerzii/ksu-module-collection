@@ -9,6 +9,10 @@
 | [DirBridge](#dirbridge) | KernelSU 目录映射模块 | v0.1.3 | MIT | 未安装测试 |
 | [网关管家](#网关管家) | Android APK（ZIP 打包） | 文件名标注 3.4.1 | 未确认 | 未安装测试 |
 
+## 官网链接收藏
+
+- **[Nekogram 官网](https://nekogram.app/)**：开源的第三方 Telegram 客户端。本条仅收藏官网链接，不备份网页内容或安装包。
+
 ## DirBridge
 
 - 作者：liebig（GitHub：Liebig773）
